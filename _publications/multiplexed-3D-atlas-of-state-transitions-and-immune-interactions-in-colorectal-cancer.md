@@ -16,4 +16,6 @@ pubmed_link: https://pubmed.ncbi.nlm.nih.gov/36669472/
 rxiv_link: https://doi.org/10.1101/2021.03.31.437984
 pdf_link:
 show_page_link: false
+
+authors: 'Jia-Ren Lin, Shu Wang, Shannon Coy, Yu-An Chen, Clarence Yapp, Madison Tyler, Maulik K. Nariya, Cody N. Heiser, Ken S. Lau, Sandro Santagata, and Peter K. Sorger'
 ---

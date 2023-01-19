@@ -22,6 +22,7 @@ data:
     pubData=page.data
     thumbnailDir=sectionId %}
 
+## Colorectal Cancer Atlas
 
 ### Key Findings:
 - Multiplexed analysis shows intermixed tumor morphologies and molecular gradients
@@ -46,13 +47,23 @@ adjacent tissue and spread to distant sites. We use highly multiplexed tissue
 imaging, spatial statistics, and machine learning to identify cell types and
 states underlying morphological features of known diagnostic and prognostic
 significance in colorectal cancer. This includes the tumor invasive margin,
-where tumor, normal, and immune cells compete and were diverse immunosuppressive
-environments are found.
+where tumor, normal, and immune cells compete and were diverse immunosuppressive environments are found.
 
 ### Contents
+* [Key Findings](#key-findings)
 * [Data Explorations](#data-explorations)
 * [Data Overviews](#data-overviews)
 * [About Minerva](#about-minerva)
+
+### Key Findings:
+
+- Multiplexed analysis shows intermixed tumor morphologies and molecular gradients
+
+- Various cancer characteristic cellular features are large, interconnected structures
+
+- 3D tertiary lymphoid structure (TLS) networks show intra-TLS patterning variation
+
+- PD1-PDL1 interactions are primarily between T and myeloid cells in this CRC cohort
 
 ### Data Explorations
 
@@ -91,9 +102,11 @@ full-resolution images.**
   {% include cards.html cards=overviews %}
 {% endif %}
 
+## Code  
+   All software used in this manuscript is freely available via GitHub at [https://github.com/labsyspharm/mcmicro](https://github.com/labsyspharm/mcmicro) and [https://github.com/labsyspharm/CRC_atlas_2022](https://github.com/labsyspharm/CRC_atlas_2022).
 
-## About Minerva
-### Exploring the primary image data in Lin-Wang-Sorger et al.
+## Access the Data
+   All data is available through a public repository (where available) or through AWS download. You should visit [https://doi.org/10.5281/zenodo.7506942](https://doi.org/10.5281/zenodo.7506942) to view the complete data table with information about where to find each dataset.
 
 The images in Lin et al. (2021) comprise a ~4.5 TB dataset with some images as
 large as 1 gigapixel.  We provide access to this information without restriction
