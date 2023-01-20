@@ -37,6 +37,8 @@ data:
 
 <i>Figure overview of the Colorectal Cancer Atlas dataset: The colorectal cancer atlas contains detailed 3D analysis of one CRC tissue specimen with CyCIF, H&E, and spatial transcriptomics, whole slide imaging of 16 additional tumor samples, and tissue microarray analysis of 92 tumors.</i>
 
+<i>Figure overview of the Colorectal Cancer Atlas dataset: The colorectal cancer atlas contains detailed 3D analysis of one CRC tissue specimen with CyCIF, H&E, and spatial transcriptomics, whole slide imaging of 16 additional tumor samples, and tissue microarray analysis of 92 tumors.</i>
+
 ## Colorectal Cancer Atlas
 
 The HTA CRC Atlas 1 dataset contains images and other data being used for
@@ -106,7 +108,7 @@ full-resolution images.**
    All software used in this manuscript is freely available via GitHub at [https://github.com/labsyspharm/mcmicro](https://github.com/labsyspharm/mcmicro) and [https://github.com/labsyspharm/CRC_atlas_2022](https://github.com/labsyspharm/CRC_atlas_2022).
 
 ## Access the Data
-   All data is available through a public repository (where available) or through AWS download. You should visit [https://doi.org/10.5281/zenodo.7506942](https://doi.org/10.5281/zenodo.7506942) to view the complete data table with information about where to find each dataset.
+   All data is available through a public repository (where available) or through AWS download. You should visit [https://doi.org/10.5281/zenodo.7554924](https://doi.org/10.5281/zenodo.7554924) to view the complete data table with information about where to find each dataset.
 
 The images in Lin et al. (2021) comprise a ~4.5 TB dataset with some images as
 large as 1 gigapixel.  We provide access to this information without restriction
